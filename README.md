@@ -1,7 +1,9 @@
 # Unrestricted Plates - Client
 
 Credit to RaiRaiTheRaichu
+
 Ported for SIT
+
 An SPT-AKI module mod that must be installed alongside the Unrestricted Plates mod. This is to patch a bug where plates with unlocked soft armor slots can not be turned in for quests.
 
 ### How to install
